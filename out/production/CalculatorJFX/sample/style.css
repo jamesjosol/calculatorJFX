@@ -1,0 +1,60 @@
+.btn {
+    -fx-background-color: #003158;
+    -fx-background-radius: 0px;
+    -fx-text-fill: #dfdfdf;
+}
+
+.btn:hover {
+    -fx-background-color: #003968;
+}
+
+.btn:pressed {
+    -fx-background-color: #002849;
+}
+
+.btn-clear {
+    -fx-background-color: #f54949;
+}
+
+.btn-clear:hover {
+    -fx-background-color: #fc5a5a;
+}
+
+.btn-clear:pressed {
+    -fx-background-color: #fa4040;
+}
+
+.btn-operator {
+    -fx-background-color: #0079db;
+}
+
+.btn-operator:hover {
+    -fx-background-color: #0280e7;
+}
+
+.btn-operator:pressed {
+    -fx-background-color: #026dc5;
+}
+
+.btn-equals {
+    -fx-background-color: #36a2fa;
+}
+
+.btn-equals:hover {
+    -fx-background-color: #3da8ff;
+}
+
+.btn-equals:pressed {
+    -fx-background-color: #3196e9;
+}
+
+.top-pane {
+    -fx-text-fill: #ebebeb;
+    -fx-background-color: #001627;
+}
+
+.txtField {
+    -fx-background-radius: 0px;
+    -fx-text-fill: #ebebeb;
+    -fx-background-color: #001627;
+}
